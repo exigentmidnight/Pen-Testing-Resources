@@ -5,10 +5,7 @@ Current phases that I'm focused on are:
 1. [Training](training.md)
 1. [Reconnaissance](reconnaissance.md)
 
-
-#Frameworks
-
-## Attack Frameworks
+# Attack Frameworks
 There are many different ways of thinking about the attack lifecycle. Examples include:
 
 * Cyber Kill Chain
@@ -16,7 +13,7 @@ There are many different ways of thinking about the attack lifecycle. Examples i
 * ATT&CK
 	* https://attack.mitre.org
 
-## Pen Testing Frameworks
+# Pen Testing Frameworks
 
 * Open Web Application Security Project (OWASP)
 	* https://owasp.org
