@@ -82,9 +82,11 @@ Certifications focused on specific testing areas
 * Web Security Academy
 	* https://portswigger.net/web-security
 
-# Testing Ranges 
+# Free Testing Ranges 
 
 * Hack the Box
 	* https://www.hackthebox.eu
 * Try Hack Me
 	* https://tryhackme.com
+* RangeForce Community Edition
+	* https://go.rangeforce.com/community-edition-registration
