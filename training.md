@@ -88,5 +88,5 @@ Certifications focused on specific testing areas
 	* https://www.hackthebox.eu
 * Try Hack Me
 	* https://tryhackme.com
-* RangeForce Community Edition
+* RangeForce Community Edition, h/t to [K4tTr33](https://medium.com/@K4tTr3)3 for pointing this out!
 	* https://go.rangeforce.com/community-edition-registration
